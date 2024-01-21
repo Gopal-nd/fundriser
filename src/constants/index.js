@@ -11,21 +11,6 @@ export const navlinks = [
     imgUrl: createCampaign,
     link: '/create-campaign',
   },
-  // {
-  //   name: 'escrow',
-  //   imgUrl: payment,
-  //   link: '/escrow',
-  // },
-  // {
-  //   name: 'community',
-  //   imgUrl: message,
-  //   link: '/community',
-  // },
-  // {
-  //   name: 'nft',
-  //   imgUrl: nft,
-  //   link: '/nft',
-  // },
   {
     name: 'profile',
     imgUrl: profile,
